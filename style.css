@@ -11,3 +11,48 @@ body{
     background: red;
     height: 200vh;
 }
+
+section{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section img#bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    pointer-events: none;
+}
+
+section img#moon{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
+
+section img#cloud1{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    max-width: 600px;
+    z-index: 2;
+}
+
+section img#cloud2{
+    position: absolute;
+    top: 200px;
+    right: 50px;
+    max-width: 600px;
+    z-index: 2;
+}
