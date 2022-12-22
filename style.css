@@ -65,3 +65,14 @@ section img#santa{
     max-width: 600px;
     transform: scale(0.5);
 }
+
+section #tree{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 200%;
+    height: 266px;
+    background: url(images/tree.png);
+    background-position-y: 266px;
+    z-index: 10; 
+}
