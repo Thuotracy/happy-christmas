@@ -56,3 +56,12 @@ section img#cloud2{
     max-width: 600px;
     z-index: 2;
 }
+
+section img#santa{
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    z-index: 1;
+    max-width: 600px;
+    transform: scale(0.5);
+}
