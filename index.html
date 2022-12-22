@@ -19,6 +19,34 @@
         <h2 id="text">HAPPY CHRISTMAS</h2>
 
     </section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js"></script>
+    
+    <script>
+        gsap.to('#moon',{
+            scrollTrigger: {
+                scrub: 1
+            },
+            scale: 1.5,
+        })
+
+        gsap.to('#bg',{
+            scrollTrigger: {
+                scrub: 1
+            },
+            scale: 1.2,
+        })
+
+        gsap.to('#santa',{
+            scrollTrigger: {
+                scrub: 1
+            },
+            scale: 1.5,
+            y:-500,
+            x:2200,
+        })
+    </script>
     
 </body>
 </html>

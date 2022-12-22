@@ -22,6 +22,15 @@ section{
     align-items: center;
 }
 
+section::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 section img#bg{
     position: absolute;
     top: 0;
@@ -60,8 +69,8 @@ section img#cloud2{
 section img#santa{
     position: absolute;
     bottom: 50px;
-    left: -600px;
-    z-index: 1;
+    left: -600;
+    z-index: 11;
     max-width: 600px;
     transform: scale(0.5);
 }
