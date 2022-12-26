@@ -1,18 +1,19 @@
 # ELASTIC LINE
-#### Elastic Line, 24 December 2022
+#### Happy Christmas, 23 December 2022
 
 #### By ** Tracy Wangari**
 
 ## Description
-An Elastic Line Animation Effect
+A Christmas Animation Effect
 
 ## Live link
-https://thuotracy.github.io/elastic-line/
+https://thuotracy.github.io/happy-christmas/
 
 
 ## Technologies Used
 HTML
 CSS
+GSAP
 
 ## Support and contact details
 Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com.
