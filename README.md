@@ -1,8 +1,6 @@
 # ELASTIC LINE
 #### Happy Christmas, 23 December 2022
 
-#### By ** Tracy Wangari**
-
 ## Description
 A Christmas Animation Effect
 
