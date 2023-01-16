@@ -8,9 +8,9 @@ A Christmas Animation Effect
 https://thuotracy.github.io/happy-christmas/
 
 ## Technologies Used
-HTML
-CSS
-GSAP
+* HTML
+* CSS
+* GSAP
 
 ## Support and contact details
 Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com.
